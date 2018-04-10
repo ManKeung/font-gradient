@@ -1,7 +1,7 @@
 # 字体渐变
 
 1. 01.html --> [demo1](https://mankeung.github.io/font-gradient/src/01.html)
-2. 02.html --> [demo1](https://mankeung.github.io/font-gradient/src/02.html)
+2. 02.html --> [demo2](https://mankeung.github.io/font-gradient/src/02.html)
 
 
 ## demo1
