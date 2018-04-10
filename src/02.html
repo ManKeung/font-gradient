@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>demo2</title>
+  <style>
+  h1 {
+    position: relative;
+    color: yellow;
+  }
+
+  h1:before {
+    content: attr(text);
+    position: absolute;
+    z-index: 10;
+    color: pink;
+    -webkit-mask: linear-gradient(to left, red, transparent);
+  }
+
+  </style>
+</head>
+
+<body>
+  <h1 text="字体渐变测试文本">字体渐变测试文本</h1>
+</body>
+
+</html>
